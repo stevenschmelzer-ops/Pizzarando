@@ -1,3 +1,6 @@
+
+![Hauptmenü](Pizzarando_Hauptmenü.png)
+
 # Pizzarando
 
 Ein Pizza-Bestellsystem für die Konsole, geschrieben in Python.
