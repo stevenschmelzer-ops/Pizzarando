@@ -1,6 +1,6 @@
 <img width="3830" height="738" alt="Pizzarando Hauptmenü" src="https://github.com/user-attachments/assets/85870042-a02e-4e19-a266-5bd8451aa14b" />
 
-![Hauptmenü](Pizzarando_Hauptmenü.png)
+
 
 # Pizzarando
 
