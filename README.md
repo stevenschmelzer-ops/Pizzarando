@@ -41,3 +41,6 @@ Eine Neuumsetzung mit Dict und Klassen ist geplant.
 ## Lizenz
 
 MIT
+
+Fertige Windows-Version unter Releases
+Ready-to-use Windows version available under Releases
